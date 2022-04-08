@@ -1,5 +1,5 @@
 # flac-m3u
-A repository for creating my own flac m3u playlists for albums in The Inernet Archive. The current m3u files listed on the Internet Archive only link to mp3 files. Hopefully this will please some of you audiophile archivists out there! 
+A repository for creating flac m3u playlists for albums in The Inernet Archive. The current m3u files listed on the Internet Archive only link to mp3 files. Hopefully this will please some of you audiophile archivists out there! 
 
 I created these flac m3u playlist files by simply swapping the "mp3" with "flac" in all the song URLs in the original m3u files from The Internet Archive. 
 
