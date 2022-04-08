@@ -12,6 +12,7 @@ I am happy to add any flac m3u files you build from The Internet Archive to this
 - Tested with my Raspberry Pi 3 running Volumio3. The URL to the raw file content plays as a custom web radio channel in the Web Radio section of Volumio. 
   - You can skip forward in tracks with no problem, however trying to go back a track brings you to the beginning of song 1.
   - Hitting pause seems to crash the player's play/pause functionality. After hitting pause once, you can press play again and it will restart playing but your play buttons become unresponsive after that.   
+  - All that said, these are (so far) all live recordings so maybe not being able to pause/skip keeps it 'truer' to the original performance...
 
 - Also tested with VLC player. 
   - The 'raw' m3u links work as expected in this scenario, you can play/pause and skip/go back as much as you please. 
