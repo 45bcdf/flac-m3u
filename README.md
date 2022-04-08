@@ -14,4 +14,4 @@ I am happy to add any flac m3u files you build from The Internet Archive to this
   - Hitting pause seems to crash the player's play/pause functionality. After hitting pause once, you can press play again and it will restart playing but your play buttons become unresponsive after that.   
 
 - Also tested with VLC player. 
--   The m3u link works as expected in this scenario, you can play/pause and skip/go back as much as you please. 
+-   The 'raw' m3u links work as expected in this scenario, you can play/pause and skip/go back as much as you please. 
